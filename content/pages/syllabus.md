@@ -21,11 +21,48 @@ Readings and guest lectures will take into consideration the participants' backg
 Requirements
 ------------
 
-| activities | percentages |
-| --- | --- |
-| Active Class Participation, including Participation in a Group Project | 30% |
-| A PowerPoint Presentation | 20% |
-| Two Papers: A shorter 7-8 page paper and a long paper–15 pages minimum–which has to be revised and resubmitted | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Active Class Participation, including Participation in a Group Project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A PowerPoint Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Papers: A shorter 7-8 page paper and a long paper–15 pages minimum–which has to be revised and resubmitted
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 A HASS Communicative Intensive Subject
 --------------------------------------
